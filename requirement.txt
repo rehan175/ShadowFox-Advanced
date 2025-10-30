@@ -1,0 +1,10 @@
+# Core ML/NLP Libraries
+torch
+transformers
+
+# Visualization Library
+bertviz
+
+# Jupyter Notebook Environment (for running the code)
+jupyterlab
+ipywidgets
